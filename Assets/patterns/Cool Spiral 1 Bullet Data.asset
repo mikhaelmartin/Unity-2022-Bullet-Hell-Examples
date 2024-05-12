@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e493d6247e90cf9ea90f0b5d4052e3a9, type: 3}
+  m_Name: Cool Spiral 1 Bullet Data
+  m_EditorClassIdentifier: 
+  lifeTime: 10
+  aimTarget: 0
+  lockTarget: 0
+  linearInitialSpeed: 10
+  linearFinalSpeed: 3
+  linearAcceleration: 10
+  linearPingpong: 0
+  angularInitialSpeed: 5
+  angularFinalSpeed: 2
+  angularAcceleration: 2
+  angularPingpong: 1
+  spinInitialSpeed: 0
+  spinFinalSpeed: 0
+  spinAcceleration: 0
+  spinPingpong: 0
+  target: {fileID: 0}
+  linearCurrentSpeed: 5
+  angularCurrentSpeed: 0
+  spinCurrentSpeed: 0
+  targetPosition: {x: 0, y: 0}
+  velocity: {x: 5, y: 0}
+  currentPosition: {x: 0.36472088, y: 0}
+  previousPosition: {x: 0, y: 0}
+  nextPosition: {x: 0.6747459, y: 0}
+  currentRotation: 0
+  previousRotation: 0
+  nextRotation: 0
+  currentSpin: 0
+  previousSpin: 0
+  nextSpin: 0
